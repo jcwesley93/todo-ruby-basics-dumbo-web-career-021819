@@ -24,8 +24,7 @@ end
 
 
 def last_evaluated_value
-  puts "I am an"
-  expert
+  "expert"
 end
 
 def pizza_party
