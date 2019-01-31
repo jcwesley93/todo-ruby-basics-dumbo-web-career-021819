@@ -21,6 +21,8 @@ def return_a_value
   "Nice"
 end
 
+return_a_value(greeting)
+
 def last_evaluated_value
 
 end
