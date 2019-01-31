@@ -17,11 +17,12 @@ def greeting (greeting, name)
   name = "Bobby!"
 end
 
+greeting(greeting)
+
 def return_a_value
   "Nice"
 end
 
-return_a_value(greeting)
 
 def last_evaluated_value
 
